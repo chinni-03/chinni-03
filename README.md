@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Computer Science student with a 9.33 GPA, skilled in programming, MERN stack, and Python. Experienced in developing user-centric applications and leading agile projects. Seeking to contribute technical expertise to impactful and innovative solutions. I'm currently learning Flutter.
+Final Year Computer Science student with a cummulative GPA of 9.33, skilled in programming, MERN stack, and Python. Experienced in developing user-centric applications and leading agile projects. Seeking to contribute technical expertise to impactful and innovative solutions. I'm currently learning Flutter.
 
 
 ## 🌐 Socials:
