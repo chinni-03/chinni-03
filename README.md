@@ -14,6 +14,25 @@
 
 ###
 
+<h2 align="left">What I do</h2>
+
+###
+
+*   🖥️ **Web & Mobile Development** – React, React Native, Flutter (Exploring 🚀)
+*   💿 **Backend & Databases** – Node.js, Express, MongoDB, MySQL, Hive
+*   ☕ **Java Enthusiast** – JSP, Servlets, JDBC, Spring Boot
+
+###
+
+<h2 align="left">Achievements</h2>
+
+###
+
+*   **Top 5% in NPTEL Python for Data Science** 🏅
+*   **Codathon Runner-up** 🏏
+
+###
+
 <br clear="both">
 
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpycmd0b3IzYWF5bmF1ejR3eXlqd2RyMm1tMGVsNG56ZmV4MmxwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
