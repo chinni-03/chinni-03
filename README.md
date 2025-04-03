@@ -18,9 +18,9 @@
 
 ###
 
-🖥️ **Web & Mobile Development** – React, React Native, Flutter (Exploring 🚀)
-💿 **Backend & Databases** – Node.js, Express, MongoDB, MySQL, Hive
-☕ **Java Enthusiast** – JSP, Servlets, JDBC, Spring Boot
+🖥️ **Web & Mobile Development** – React, React Native, Flutter (Exploring 🚀)<br>
+💿 **Backend & Databases** – Node.js, Express, MongoDB, MySQL, Hive<br>
+☕ **Java Enthusiast** – JSP, Servlets, JDBC, Spring Boot<br>
 
 ###
 
