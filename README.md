@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Flutter<br>🎯 Goals: Code, Coffee, Colab and repeat<br>🎲 Fun fact: I write poems</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Flutter and Svelte<br>🎯 Goals: Code, Coffee, Colab and repeat<br>🎲 Fun fact: I write poems</p>
 
 ###
 
