@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Harshini and I'm a Graduate Software Developer, from Bangalore, India</p>
+<p align="left">My name is Harshini and I'm a Graduate Software Developer, based in Bangalore, India</p>
 
 ###
 
