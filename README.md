@@ -1,116 +1,84 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there, I’m Harshini</h1>
+<p align="center">🌟 Full-Stack Developer | UI Breaker-Turned-UX Lover | Code Whisperer</p>
 
-###
+<p align="center">
+  <a href="mailto:harshinivijendrakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshinivijendrakumar-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/harshini-vijendra-kumar"><img src="https://img.shields.io/badge/LinkedIn-harshini--vijendra--kumar-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-<p align="left">My name is Harshini and I'm a Graduate Software Developer, based in Bangalore, India</p>
+---
 
-###
+## 👀 Who dis?
 
-<h2 align="left">About me</h2>
+Hi! I’m Harshini. I write code that usually works on the second try. I’m a Computer Science graduate who accidentally fell in love with **full-stack development** and now spends a little too much time perfecting pixels *and* endpoints.
 
-###
+Sometimes I build cool things like:
+- 🧠 Smart platforms
+- 📱 Pretty apps
+- 🤖 Machines that do (some of) the thinking
+- 💥 Bugs (but only occasionally... okay, maybe more than occasionally)
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Svelte and NLP<br>🎯 Goals: Code, Coffee, Colab and repeat<br>🎲 Fun fact: I write poems</p>
+---
 
-###
+## 🛠️ Tech Toolbox (a.k.a. things I fight with daily)
 
-<h2 align="left">What I do</h2>
+- **Frontend:** React, Flutter, HTML, CSS (and whatever Bootstrap hasn't broken today)
+- **Backend:** Spring Boot, Node.js, Express (for when I want to feel in control)
+- **Languages I pretend to master:** Python, Java, JavaScript
+- **Databases:** MySQL, MongoDB, Hive (because life’s better with persistent memory)
+- **Dev Tools:** Git, GitHub, Postman, VS Code, Docker (just enough to sound impressive)
 
-###
+---
 
-🖥️ **Web & Mobile Development** – React, React Native, Flutter (Exploring 🚀)<br>
-💿 **Backend & Databases** – Node.js, Express, MongoDB, MySQL, Hive<br>
-☕ **Java Enthusiast** – JSP, Servlets, JDBC, Spring Boot<br>
+## 🔥 Projects I'm Proud Of (and didn't totally cry building)
 
-###
+| Project | Description | Tech |
+|--------|-------------|------|
+| 📚 [Course Management System](https://github.com/chinni-03/course-management-system) | Role-based full-stack beast with JWT and REST | Spring Boot, React |
+| ✅ [Remynd](https://github.com/chinni-03/remynd) | A Flutter to-do app that reminds you... to check your to-do app | Flutter, Hive |
+| 📘 [Kyndo](https://github.com/chinni-03/kyndo) | E-learning but make it snappy | React, Node.js, MongoDB |
+| 📝 [ResuNova](https://github.com/chinni-03/zidio_resunova) | Build resumes without crying in MS Word | MERN Stack |
+| 🌐 [Parash Website](https://www.parash.org/) | Consultancy website with fewer bugs than your average government portal | HTML, CSS, JS |
+| 🤖 [Simple AI Agent](https://github.com/chinni-03/simple-ai-agent) | A humble AI agent that (mostly) behaves. Local, offline, and doesn't spy on you... probably. | Python, LangChain |
 
-<h2 align="left">Achievements</h2>
+---
 
-###
+## 🧠 Certifications (a.k.a. evidence I survived online courses)
 
-*   **Top 5% in NPTEL Python for Data Science** 🏅
-*   **Codathon Runner-up** 🏏
+- 🥇 Python for Data Science – NPTEL (Top 5% flex 💪)
+- 🥈 React Developer – HackerRank (yes, I clicked all the right boxes)
+- 📦 AWS Cloud Practitioner (prepped, not panicked)
+- 🤖 Prompt Design in Vertex AI – Google (I can speak fluent LLM, almost)
 
-###
+---
 
-<br clear="both">
+## 🧾 Fun Facts
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpycmd0b3IzYWF5bmF1ejR3eXlqd2RyMm1tMGVsNG56ZmV4MmxwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+- 🧩 I love clean UIs, messy debates, and semi-clean code
+- 🥱 I yawn at poorly named variables (`x`, really?)
+- 🧃 Most productive between 2am and 3am, for no scientific reason
+- 🚀 Currently open to full-time opportunities and building cool things with smarter people
 
-###
+---
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinni-03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinni-03&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 📊 GitHub Stats (yes, I have commits. some are even useful.)
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinni-03&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-<br clear="both">
+---
 
-<h2 align="left">I code with</h2>
+## 🧩 Let's Connect!
 
-###
+If you:
+- need a developer who can ship, debug, *and* deliver dad jokes
+- want to collaborate on something weirdly cool
+- or just want to say hi 👋
 
-<br clear="both">
+📬 Reach me at [harshinivijendrakumar@gmail.com](mailto:harshinivijendrakumar@gmail.com)  
+📎 Or connect on [LinkedIn](https://linkedin.com/in/harshini-vijendra-kumar)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
-
-<br clear="both">
-
-<h2 align="left">Do you want to connect?</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/harshini-vijendra-kumar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:harshinivk12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<p align="center"><i>"Building things one bug at a time."</i> 🐞</p>
