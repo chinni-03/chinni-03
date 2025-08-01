@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Harshini 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&lines=Full-stack+dev+on+coffee+%26+clean+code.;Building+cool+things+with+Electron,+SvelteKit,+Spring+Boot.;Debugging+5+hrs+to+fix+a+typo+since+2021." style="height: 100px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&lines=Full-stack+dev+on+coffee+%26+clean+code.;Building+cool+things+with+Electron,+SvelteKit,+Spring+Boot." style="height: 100px;" />
 </p>
 
 <p align="center">
