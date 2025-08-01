@@ -70,7 +70,9 @@ Other:         Electron | AWS | Docker | GitHub Actions | Postman | Figma
 
 ### 🐍 Watch Me Snake Around GitHub
 
-<img src="https://raw.githubusercontent.com/chinni-03/chinni-03/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chinni-03/chinni-03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
