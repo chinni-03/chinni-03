@@ -79,8 +79,7 @@ Other:         Electron | AWS | Docker | GitHub Actions | Postman | Figma
 ### 📬 Let’s Connect (I promise not to ghost)
 
 - 💌 [harshinivijendrakumar@gmail.com](mailto:harshinivijendrakumar@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshini-vijendra-kumar/)  
-- 🌐 [parash.com](https://parash.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshini-vijendra-kumar/) 
 
 ---
 
