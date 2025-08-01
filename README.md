@@ -1,84 +1,89 @@
-<h1 align="center">Hey there, I’m Harshini</h1>
-<p align="center">🌟 Full-Stack Developer | UI Breaker-Turned-UX Lover | Code Whisperer</p>
+<h1 align="center">Hey there, I'm Harshini 👩‍💻</h1>
 
 <p align="center">
-  <a href="mailto:harshinivijendrakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshinivijendrakumar-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/harshini-vijendra-kumar"><img src="https://img.shields.io/badge/LinkedIn-harshini--vijendra--kumar-blue?style=flat-square&logo=linkedin"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&lines=Full-stack+dev+on+coffee+%26+clean+code.;Building+cool+things+with+Electron,+SvelteKit,+Spring+Boot.;Debugging+5+hrs+to+fix+a+typo+since+2021." style="height: 100px;" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinni-03"><img src="https://img.shields.io/github/followers/chinni-03?label=Follow&style=social" /></a>
+  <a href="mailto:harshinivijendrakumar@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/harshini-vijendra-kumar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
 
-## 👀 Who dis?
+### 💡 About Me
 
-Hi! I’m Harshini. I write code that usually works on the second try. I’m a Computer Science graduate who accidentally fell in love with **full-stack development** and now spends a little too much time perfecting pixels *and* endpoints.
-
-Sometimes I build cool things like:
-- 🧠 Smart platforms
-- 📱 Pretty apps
-- 🤖 Machines that do (some of) the thinking
-- 💥 Bugs (but only occasionally... okay, maybe more than occasionally)
+- 🌟 Full-stack developer • Tech enthusiast • Meme appreciator
+- 🤖 Currently crafting AIs that hallucinate *slightly less*
+- 🧠 Debugging with console.logs since before it was cool
+- ☕ Fuel: Coffee, curiosity, and random late-night stack traces
+- 🌱 Learning things I didn’t know I needed until I did
 
 ---
 
-## 🛠️ Tech Toolbox (a.k.a. things I fight with daily)
+### 🔧 Tech Toolbox
 
-- **Frontend:** React, Flutter, HTML, CSS (and whatever Bootstrap hasn't broken today)
-- **Backend:** Spring Boot, Node.js, Express (for when I want to feel in control)
-- **Languages I pretend to master:** Python, Java, JavaScript
-- **Databases:** MySQL, MongoDB, Hive (because life’s better with persistent memory)
-- **Dev Tools:** Git, GitHub, Postman, VS Code, Docker (just enough to sound impressive)
+```txt
+Languages:     Java | Python | JS/TS | SQL | C++
+Frontend:      React | SvelteKit | Flutter | Tailwind | Bootstrap
+Backend:       Spring Boot | Node.js | Express | REST | JWT
+Databases:     MySQL | MongoDB | PostgreSQL | Hive
+Other:         Electron | AWS | Docker | GitHub Actions | Postman | Figma
+```
 
----
-
-## 🔥 Projects I'm Proud Of (and didn't totally cry building)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📚 [Course Management System](https://github.com/chinni-03/course-management-system) | Role-based full-stack beast with JWT and REST | Spring Boot, React |
-| ✅ [Remynd](https://github.com/chinni-03/remynd) | A Flutter to-do app that reminds you... to check your to-do app | Flutter, Hive |
-| 📘 [Kyndo](https://github.com/chinni-03/kyndo) | E-learning but make it snappy | React, Node.js, MongoDB |
-| 📝 [ResuNova](https://github.com/chinni-03/zidio_resunova) | Build resumes without crying in MS Word | MERN Stack |
-| 🌐 [Parash Website](https://www.parash.org/) | Consultancy website with fewer bugs than your average government portal | HTML, CSS, JS |
-| 🤖 [Simple AI Agent](https://github.com/chinni-03/simple-ai-agent) | A humble AI agent that (mostly) behaves. Local, offline, and doesn't spy on you... probably. | Python, LangChain |
+> If it compiles, ships, and doesn't crash... I call that a win.
 
 ---
 
-## 🧠 Certifications (a.k.a. evidence I survived online courses)
+### 🔥 Projects I'm (unreasonably) Proud Of
 
-- 🥇 Python for Data Science – NPTEL (Top 5% flex 💪)
-- 🥈 React Developer – HackerRank (yes, I clicked all the right boxes)
-- 📦 AWS Cloud Practitioner (prepped, not panicked)
-- 🤖 Prompt Design in Vertex AI – Google (I can speak fluent LLM, almost)
+🧰 [`create-electron-sveltekit`](https://github.com/chinni-03/create-electron-sveltekit)  
+> Templating dreams for devs who love fast setup and ✨ zero config ✨.
+
+🧠 [`AI Assistant`](https://github.com/chinni-03/langchain-assistant)  
+> It talks. Sometimes it makes sense. Thanks, LangChain.
+
+📚 [`Course Management System`](https://github.com/chinni-03/course-management-system)  
+> Spring Boot + React + JWT + dark mode (because priorities).
+
+📝 [`ResultNova`](https://github.com/chinni-03/resultnova)  
+> Real-time resume builder. Like Google Docs but cuter.
+
+🧪 [`Kyndo`](https://github.com/chinni-03/kyndo)  
+> MERN stack + async queues. Like Udemy if it were built in a hackathon.
+
+📱 [`Remynd`](https://github.com/chinni-03/remynd)  
+> A to-do app that doesn’t judge your procrastination. Promise.
 
 ---
 
-## 🧾 Fun Facts
-
-- 🧩 I love clean UIs, messy debates, and semi-clean code
-- 🥱 I yawn at poorly named variables (`x`, really?)
-- 🧃 Most productive between 2am and 3am, for no scientific reason
-- 🚀 Currently open to full-time opportunities and building cool things with smarter people
-
----
-
-## 📊 GitHub Stats (yes, I have commits. some are even useful.)
+### 📈 The Dev Graphs™️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinni-03&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinni-03&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinni-03&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧩 Let's Connect!
+### 🐍 Watch Me Snake Around GitHub
 
-If you:
-- need a developer who can ship, debug, *and* deliver dad jokes
-- want to collaborate on something weirdly cool
-- or just want to say hi 👋
-
-📬 Reach me at [harshinivijendrakumar@gmail.com](mailto:harshinivijendrakumar@gmail.com)  
-📎 Or connect on [LinkedIn](https://linkedin.com/in/harshini-vijendra-kumar)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chinni-03/chinni-03/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
-<p align="center"><i>"Building things one bug at a time."</i> 🐞</p>
+### 📬 Let’s Connect (I promise not to ghost)
+
+- 💌 [harshinivijendrakumar@gmail.com](mailto:harshinivijendrakumar@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshini-vijendra-kumar/)  
+- 🌐 [parash.com](https://parash.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9E00FF&height=120&section=footer"/>
+</p>
