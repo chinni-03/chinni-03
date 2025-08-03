@@ -61,8 +61,8 @@ Other:         Electron | AWS | Docker | GitHub Actions | Postman | Figma
 ### 📈 The Dev Graphs™️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinni-03&show_icons=true&theme=tokyonight" />
-  <br />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=chinni-03&show_icons=true&theme=tokyonight" />
+  <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinni-03&layout=compact&theme=tokyonight" />
 </p>
 
