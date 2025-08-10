@@ -43,13 +43,13 @@ Other:         Electron | AWS | Docker | GitHub Actions | Postman | Figma
 🧰 [`create-electron-sveltekit`](https://github.com/chinni-03/create-electron-sveltekit)  
 > Templating dreams for devs who love fast setup and ✨ zero config ✨.
 
-🧠 [`AI Assistant`](https://github.com/chinni-03/langchain-assistant)  
+🧠 [`AI Assistant`](https://github.com/chinni-03/simple-ai-agent)  
 > It talks. Sometimes it makes sense. Thanks, LangChain.
 
 📚 [`Course Management System`](https://github.com/chinni-03/course-management-system)  
 > Spring Boot + React + JWT + dark mode (because priorities).
 
-📝 [`ResultNova`](https://github.com/chinni-03/resultnova)  
+📝 [`ResuNova`](https://github.com/chinni-03/zidio_resunova)
 > Real-time resume builder. Like Google Docs but cuter.
 
 🧪 [`Kyndo`](https://github.com/chinni-03/kyndo)  
