@@ -38,6 +38,9 @@ Other:         Electron | AWS | Docker | GitHub Actions | Postman | Figma
 
 ### 🔥 Projects I'm (unreasonably) Proud Of
 
+🥄 [`Spoon`](https://github.com/chinni-03/spoon)
+> Your AI-powered document detective 🕵️‍♀️- Reads PDFs and GitHub repos so you don't have to
+
 🧰 [`create-electron-sveltekit`](https://github.com/chinni-03/create-electron-sveltekit)  
 > Templating dreams for devs who love fast setup and ✨ zero config ✨.
 
