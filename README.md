@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chinni-03"><img src="https://img.shields.io/github/followers/chinni-03?label=Follow&style=social" /></a>
   <a href="mailto:harshinivijendrakumar@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/harshini-vijendra-kumar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 </p>
